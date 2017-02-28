@@ -9,7 +9,7 @@ Finally, to move from Angular 1 to Angular 2 or to React, you'll need to think a
 ##Instructions
 We'll build components together, so I've just given you the file structure on the master branch. That way you don't have to worry about file structure, but you still get the practice of creating the module, controllers, and components. 
 
-If you want to look at finished examples, I'll try to publish them on the branches of this repository. 
+Please see the components branch for a more complete example (though it is still far from finished). 
 
 ### 1. A Nav Template Component
 Let’s begin by just wrapping some standard html in a component. We’ll start with a nav. 
